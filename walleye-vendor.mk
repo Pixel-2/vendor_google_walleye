@@ -200,8 +200,8 @@ PRODUCT_PACKAGES += \
     EuiccGoogle \
     EuiccSupportPixel \
     HardwareInfo \
-    HotwordEnrollmentOKGoogleWCD9340 \
-    HotwordEnrollmentXGoogleWCD9340 \
+    HotwordEnrollmentOKGoogleHEXAGON \
+    HotwordEnrollmentXGoogleHEXAGON \
     MyVerizonServices \
     OBDM_Permissions \
     SprintDM \
